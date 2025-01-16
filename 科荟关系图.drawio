@@ -2283,7 +2283,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K6s0iWNJ0709L5iabHXX-402" value="t_tag" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="K6s0iWNJ0709L5iabHXX-402" value="&lt;b&gt;t_tag&lt;/b&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="3730" width="370" height="300" as="geometry">
             <mxRectangle x="-250" y="4080" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
